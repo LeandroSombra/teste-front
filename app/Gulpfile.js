@@ -1,0 +1,10 @@
+require('./gulp/default.js');
+require('./gulp/watch.js');
+require('./gulp/html.js');
+require('./gulp/sass.js');
+require('./gulp/scripts.js');
+require('./gulp/assets.js');
+require('./gulp/images.js');
+require('./gulp/jsons.js');
+require('./gulp/fonts.js');
+require('./gulp/minify.js');

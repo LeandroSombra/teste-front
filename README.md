@@ -1,8 +1,7 @@
-# Dilemas Éticos
+# Teste Forn
 
 
-## Autores
-- Denis Montone <dmontone@gmail.com>
+## Autor
 - Leandro Sombra <le.leandrosombra@gmail.com>
 
 
@@ -10,7 +9,7 @@
 
 Clone este repositório em seu ambiente:
 ```
-git clone https://github.com/dmontone/dilemas-eticos
+git clone https://github.com/LeandroSombra/teste-front
 ```
 ---
 Instale as dependências do node:

@@ -30,6 +30,7 @@
     "vinyl-source-stream": "^1.1.0"
   },
   "devDependencies": {
-    "gulp-minify-css": "^1.2.2"
+    "gulp-minify-css": "^1.2.2",
+    "gulp-ruby-sass": "^2.0.6"
   }
 }

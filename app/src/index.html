@@ -2,22 +2,23 @@
 
 	<head>
 
-		<title>Dilemas Éticos</title>
+		<title>Teste front</title>
 
 
 		<link rel="stylesheet" type="text/css" href="./assets/css/minify/main.css" />
+		<script type="text/javascript" src="./assets/js/vendor/assets.min.js"></script>
+		<script type="text/javascript" src="./assets/js/angular-route.js"></script>
+		<script type="text/javascript" src="./assets/js/app.min.js"></script>
 
 	</head>
 
 	<body>
-
+		<div ng-include="'include/header.html'"></div>
 		
 		
 		<div id="site" class="{{pageClass}}" ng-view></div>
 
-		<script type="text/javascript" src="./assets/js/vendor/assets.min.js"></script>
-		<script type="text/javascript" src="./assets/js/angular-route.js"></script>
-		<script type="text/javascript" src="./assets/js/app.min.js"></script>
+		
 
 		
 		
